@@ -1,2 +1,2 @@
 # Web and Mobile-App-Developments
- SMITT JS ASSIGNMENT
+HTML fRONTEND TEMPLATE PROJECTS
